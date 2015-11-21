@@ -3,4 +3,4 @@ django-admin startproject djangomti
 cd djangomti
 python manage.py startapp mti
 # ... edit mti/models.py ...
-
+python manage.py makemigrations mti
