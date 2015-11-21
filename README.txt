@@ -1,3 +1,5 @@
+This is what I did, reflected in the git history:
+
 pip install -r requirements.pip
 django-admin startproject djangomti
 cd djangomti
